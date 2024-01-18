@@ -1,1 +1,1 @@
-*. linguist-detectable=Assembly
+*.asm linguist-detectable=Assembly
